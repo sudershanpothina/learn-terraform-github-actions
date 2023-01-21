@@ -15,7 +15,7 @@ terraform {
     organization = "skycal"
 
     workspaces {
-      name = "demo"
+      name = "demo-github-actions"
     }
   }
 }
